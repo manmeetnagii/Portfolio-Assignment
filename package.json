@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://manmeetnagii.github.io/Portoflio-Assignment'",
+    "build-gh": "parcel build --public-url 'https://manmeetnagii.github.io/Portfolio-Assignment'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

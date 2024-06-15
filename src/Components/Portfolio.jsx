@@ -64,7 +64,7 @@ const Portfolio = () => {
       style={{ background: "black", borderTop: "1px solid #3f3f3f" }}
     >
       <h2 style={{ textAlign: "center" }}>Portfolio</h2>
-      <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
+      <div style={{ display: "flex", flexDirection: "row", paddinTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             className="slideLeft"
